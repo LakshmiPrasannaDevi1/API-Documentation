@@ -1,0 +1,7 @@
+# User API Documentation
+
+## Overview
+The Andor Health User API allows developers to manage user accounts, retrieve user information, and facilitate interactions within the Andor Health platform.
+
+### Authentication
+To access the User API, you must authenticate using an API key. Include your API key in the request headers.
